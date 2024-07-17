@@ -5,7 +5,7 @@
 # Background
 Data analysis and visualization of Citi Bike data (https://www.citibikenyc.com/system-data) was performed for overseeing the bike-sharing program at Citi Bike NYC (https://en.wikipedia.org/wiki/Citi_Bike). 
 
-Before the analysis, the data was combined by month, cleaned and transformed by using pandas. The data was then analyzed, visualized, and published using Tableau. Due to the data size limitation, only the data of three months (2023_Aug, 2023_Sep, and 2023_Nov) were used for the analysis. Due to large size of the data, the original data is saved on Google Drive with the link: https://drive.google.com/drive/folders/1DwYGgiNMZ4FipuWDL3OYJafI00jq7L5R?usp=sharing
+Before the analysis, the data was combined by month, cleaned and transformed by using pandas. The data was then analyzed, visualized, and published using Tableau. Due to the data size limitation, only the data of three months (2023_Aug, 2023_Sep, and 2023_Nov) were used for the analysis. Due to large size of the data, the original data together with Jupyter Notebook and processed csv files are saved on Google Drive with the link: https://drive.google.com/drive/folders/1ViKzXKeh6UDTiEwxMPDmER3MW211Jp-b?usp=sharing
 
 # Viusalization presentation
 
